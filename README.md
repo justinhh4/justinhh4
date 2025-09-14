@@ -19,3 +19,6 @@ I'm studying computer science at the University of Michigan. Let's connect!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
+## 📊 GitHub Stats
+<!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=justinhh4&show_icons=true&theme=radical)  -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justinhh4&layout=compact&theme=radical)  
